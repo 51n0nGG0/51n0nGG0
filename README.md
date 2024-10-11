@@ -18,27 +18,15 @@
 
 ### Programing/Scripting Languages
 
-<!-- JavaScript --> 
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&label=%20)
-
-<!-- TypeScript -->
-![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-
-<!-- Java -->
-![Static Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!-- Python -->
-![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- C# -->
-![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAC%2BklEQVRoge2au2sUQRyAf5MLvpKLRTQoioU22mgnabQSCYr4wBQiCGISK%2FFPMGqVWEgMWFpYiJ2JBzaKlZ2o%2BABtFInxAYqRS0SMJp%2FF3IVzMnvM%2FnYvm9V8cHC77Pxmvp3Z2XmsyBL%2FCUAnMAJMVH4jQGfW5QoG2AhcB2bxUwI2Z13OSIAWoB%2F4ESFQy09gCFiddbnnAJqAE8CnAAGXL8BZoDlriT3AU4WAy0ugOwuBrdi2njZ3ge0LIdCObdu%2FGiBRZQbbWaxrhMAybFv%2B1kABlyls57EyDQEDdANvFlDA5R3QBzRpJXYCDzIUcHkI7IpbC5eIfqFlySwwGCpyOmFmY8Aw0IXt3VqA5cAGYC8wALxNmEdPiMgLZfBxoAcoBORRAI4lEHoWIjKtCDwKFIOq%2FO%2B8isANRX7TIcHjcgVtjyJzz%2BTluJmmLTKaRMKRuZ%2BVyDgRzQnoAC4CT7AvtkngMXABWOtcuwm4ScxeMk2RUxHpjwLlOukmgMPAKuAc8D2OQNoiY3h6p4pEyJ39DXyIKlzUcT0RbfseNcbMOBIdInJNRExA%2BoKIrFfm7UU7obnjOXdGRGJ3wSIixhgTclyvSWlr5LXn3AFlrFSY1wyCHiSRojFmykk3KSKtiQrj3Pl6NeHWmrZGfM9ByA1oGFoR34Pqa25BmAqhxz60Ils850rKWKmgFdnvOTcsImVNsND3SL0YWpGDOGtRxpjPInJSRGYD0s%2BIyEdl3mEEvJWr9EakP0L9RYqvwCEWyRAF4D3Rg8Y1wHngEXbAWK787wfanWszHzQC3OYfGMZXGU4iU5EYiptpSGDNVLcEtCkk2rDNKi5BU93nisBgh%2BV9BKysA83Acex0QEPQ4kOvMniVceAqsA%2FYBrQCK7AbQF3YNTOtQBXvpM4nM8DiXaAbCJKokVmMS6a7Y0nUyOR%2FEdsRyve2gkco3xs9HqFGbb3dA3Y0XMAjlNZm6Cuy2Ax1ZPK%2FPV0Lef9gwIW8f8LhwvyPam6Rp49qlkjIH4851JnUzCGbAAAAAElFTkSuQmCC&logoColor=white)
-
-<!-- C++ -->
-![Static Badge](https://img.shields.io/badge/C%2B%2B-3670A0?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<!-- PHP -->
-![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
-
+| Tecnología | Experiencia |
+| ------------- | ------------- |
+| ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&label=%20) | 4 años |
+| ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) | 1 año |
+| ![Static Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white) | 5 años |
+| ![Static Badge](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | 1 año |
+| ![Static Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAC%2BklEQVRoge2au2sUQRyAf5MLvpKLRTQoioU22mgnabQSCYr4wBQiCGISK%2FFPMGqVWEgMWFpYiJ2JBzaKlZ2o%2BABtFInxAYqRS0SMJp%2FF3IVzMnvM%2FnYvm9V8cHC77Pxmvp3Z2XmsyBL%2FCUAnMAJMVH4jQGfW5QoG2AhcB2bxUwI2Z13OSIAWoB%2F4ESFQy09gCFiddbnnAJqAE8CnAAGXL8BZoDlriT3AU4WAy0ugOwuBrdi2njZ3ge0LIdCObdu%2FGiBRZQbbWaxrhMAybFv%2B1kABlyls57EyDQEDdANvFlDA5R3QBzRpJXYCDzIUcHkI7IpbC5eIfqFlySwwGCpyOmFmY8Aw0IXt3VqA5cAGYC8wALxNmEdPiMgLZfBxoAcoBORRAI4lEHoWIjKtCDwKFIOq%2FO%2B8isANRX7TIcHjcgVtjyJzz%2BTluJmmLTKaRMKRuZ%2BVyDgRzQnoAC4CT7AvtkngMXABWOtcuwm4ScxeMk2RUxHpjwLlOukmgMPAKuAc8D2OQNoiY3h6p4pEyJ39DXyIKlzUcT0RbfseNcbMOBIdInJNRExA%2BoKIrFfm7UU7obnjOXdGRGJ3wSIixhgTclyvSWlr5LXn3AFlrFSY1wyCHiSRojFmykk3KSKtiQrj3Pl6NeHWmrZGfM9ByA1oGFoR34Pqa25BmAqhxz60Ils850rKWKmgFdnvOTcsImVNsND3SL0YWpGDOGtRxpjPInJSRGYD0s%2BIyEdl3mEEvJWr9EakP0L9RYqvwCEWyRAF4D3Rg8Y1wHngEXbAWK787wfanWszHzQC3OYfGMZXGU4iU5EYiptpSGDNVLcEtCkk2rDNKi5BU93nisBgh%2BV9BKysA83Acex0QEPQ4kOvMniVceAqsA%2FYBrQCK7AbQF3YNTOtQBXvpM4nM8DiXaAbCJKokVmMS6a7Y0nUyOR%2FEdsRyve2gkco3xs9HqFGbb3dA3Y0XMAjlNZm6Cuy2Ax1ZPK%2FPV0Lef9gwIW8f8LhwvyPam6Rp49qlkjIH4851JnUzCGbAAAAAElFTkSuQmCC&logoColor=white)| 1 año |
+| ![Static Badge](https://img.shields.io/badge/C%2B%2B-3670A0?style=for-the-badge&logo=cplusplus&logoColor=white) | 1 año |
+| ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white) | 1 año |
 
 ### Frontend Developement
 
