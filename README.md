@@ -42,50 +42,24 @@
 
 ### Backend Developement
 
-<!-- Node.js -->
-![Static Badge](https://img.shields.io/badge/Node.JS-darkgreen?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<!-- Spring Boot -->
-![Static Badge](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
-
-<!-- Express -->
-![Static Badge](https://img.shields.io/badge/Express-yellow?style=for-the-badge&logo=express&logoColor=white)
-
-<!-- .NET -->
-![Static Badge](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white)
+| Technology | Experience |
+| ------------- | ------------- |
+| ![Static Badge](https://img.shields.io/badge/Node.JS-darkgreen?style=for-the-badge&logo=nodedotjs&logoColor=white) | 3 years |
+| ![Static Badge](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white) | 1 year |
+| ![Static Badge](https://img.shields.io/badge/Express-yellow?style=for-the-badge&logo=express&logoColor=white) | 3 years |
+| ![Static Badge](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet&logoColor=white) | 1/2 year |
 
 ### Databases
 
-<!-- SQL -->
-![Static Badge](https://img.shields.io/badge/SQL-brown?style=for-the-badge&logo=themoviedatabase&logoColor=white)
-
-<!-- MongoDB -->
-![Static Badge](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<!-- Oracle -->
-![Static Badge](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white)
+| Technology | Experience |
+| ------------- | ------------- |
+| ![Static Badge](https://img.shields.io/badge/SQL-brown?style=for-the-badge&logo=themoviedatabase&logoColor=white) | 2 years |
+| ![Static Badge](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white) | 3 years |
+| ![Static Badge](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white) | 1 year |
 
 ### Content Management and Digital Experience Platforms
 
-<!-- LIFERAY -->
-![Static Badge](https://img.shields.io/badge/Liferay-0077B5?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAB1klEQVRIibWWsU8VQRDGfyOngo2SmAAVMeQZoqV0EO1JtKMkgUL%2BDkOiCcYQ%2FwBbGlsbW32voHh00NkYCUEbMFHy4IDPgkH3xn0XQo5JLplvbna%2Bvfl2bxdJ9yV1JJVqzkpJbUktk9QBpoEtoEczNgg8BDo422ZDhf%2BapE1JZQEU%2BMwljQJPAQMOgTXgGXDXx7WBU%2BCJ430ze9%2BHowcUeM%2B6TvA89PKepN8Jfivpdci51ucLurmXdql%2B1FgkKAM%2B9qcOq46gCHgN%2BOT%2BiZl9kzQJDHnsuxd857hnZrUEUYO5pLeHkkYk7SSxF5nxo557bnMez2ownPg3gFvA7SR2JzPHIc%2FN1fhPg8YtatABVtw%2FBnaB5WRWHzM1doGXSa12HUFqBmBmK2lQ0mNg1uEvYJXq8q4u9SDyUtxokTWz0SYCXvK8rMiNWyTYS%2Fwj4CAzZj%2F4B56bq4FJErBhZlO5GUga499G%2B8HZRhtx3DOzHUnjwIDHts3syNv%2BqKJBH4KfSX%2FfSHqV4FLSeNBg0cd1JaluFZ1bEfzTgGON6ym4CpEr%2F6aLfME81QPnBPjieA%2F4CiwAN734hyrd1R2ZW%2FIjcx2YcZImD%2F0HQBtJLZ1dMZq%2BtnyW1PoD1BNDLCntTvsAAAAASUVORK5CYII%3D)
-
-<!-- Wordpress -->
-![Static Badge](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white)  
-
-
-
-<!--
-**51n0nGG0/51n0nGG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Technology | Experience |
+| ------------- | ------------- |
+| ![Static Badge](https://img.shields.io/badge/Liferay-0077B5?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAB1klEQVRIibWWsU8VQRDGfyOngo2SmAAVMeQZoqV0EO1JtKMkgUL%2BDkOiCcYQ%2FwBbGlsbW32voHh00NkYCUEbMFHy4IDPgkH3xn0XQo5JLplvbna%2Bvfl2bxdJ9yV1JJVqzkpJbUktk9QBpoEtoEczNgg8BDo422ZDhf%2BapE1JZQEU%2BMwljQJPAQMOgTXgGXDXx7WBU%2BCJ430ze9%2BHowcUeM%2B6TvA89PKepN8Jfivpdci51ucLurmXdql%2B1FgkKAM%2B9qcOq46gCHgN%2BOT%2BiZl9kzQJDHnsuxd857hnZrUEUYO5pLeHkkYk7SSxF5nxo557bnMez2ownPg3gFvA7SR2JzPHIc%2FN1fhPg8YtatABVtw%2FBnaB5WRWHzM1doGXSa12HUFqBmBmK2lQ0mNg1uEvYJXq8q4u9SDyUtxokTWz0SYCXvK8rMiNWyTYS%2Fwj4CAzZj%2F4B56bq4FJErBhZlO5GUga499G%2B8HZRhtx3DOzHUnjwIDHts3syNv%2BqKJBH4KfSX%2FfSHqV4FLSeNBg0cd1JaluFZ1bEfzTgGON6ym4CpEr%2F6aLfME81QPnBPjieA%2F4CiwAN734hyrd1R2ZW%2FIjcx2YcZImD%2F0HQBtJLZ1dMZq%2BtnyW1PoD1BNDLCntTvsAAAAASUVORK5CYII%3D) | 8 months |
+| ![Static Badge](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white) | 1/2 year |
