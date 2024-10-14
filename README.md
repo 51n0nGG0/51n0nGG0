@@ -14,7 +14,28 @@
   IES La Quintana, Ciaño, Spain  
   2016 – 2018
 
-## Technologies and Tools
+## Experience
+
+- **BABEL Sistemas de Información**    
+  - Fullstack Software Engineer   
+    Full-time position   
+    Jun 2023 - Dec 2023   
+    Oviedo, Principado de Asturias, Spain
+  - Fullstack Software Engineer   
+    Internship position   
+    Feb 2023 - Jun 2023   
+    Oviedo, Principado de Asturias, Spain   
+- **Ingenium S.L.**    
+  - Web Developer    
+    Internship position    
+    Feb 2022 - Jun 2022    
+    Llanera, Principado de Asturias, Spain    
+- **Freelance**    
+  - IT Teacher    
+    Oct 2020 - May 2021    
+    Principado de Asturias, Spain    
+    
+## 🔧 Technologies and Tools
 
 ### Programing/Scripting Languages
 
