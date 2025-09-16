@@ -4,7 +4,7 @@
 
 - **Master’s Degree in Web Engineering** 🌐  
   University of Oviedo, Spain  
-  2024 – Present
+  2023 – 2025
 
 - **Bachelor’s Degree in Software Engineering** 💻   
   University of Oviedo, Spain  
