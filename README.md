@@ -29,7 +29,12 @@
   - Web Developer    
     Internship position    
     Feb 2022 - Jun 2022    
-    Llanera, Principado de Asturias, Spain    
+    Llanera, Principado de Asturias, Spain
+- **University of Oviedo**    
+  - IT Intern    
+    Internship position    
+    Nov 2021 - Feb 2022    
+    Oviedo, Principado de Asturias, Spain
 - **Freelance**    
   - IT Teacher    
     Oct 2020 - May 2021    
